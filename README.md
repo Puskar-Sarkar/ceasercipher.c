@@ -1,2 +1,2 @@
-# ceasercipher.c
-WAP in  c to implement ceaser cipher.
+# caesarcipher.c
+WAP in  c to implement caesar cipher.
